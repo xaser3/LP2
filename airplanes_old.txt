@@ -1,0 +1,1 @@
+id_avião;modelo;nome;companhia_aérea;velocidade_cruzeiro;altitude_cruzeiro;distância_máxima;cod_aeroporto;capacidade_de_passageiros;capacidade_do_depósito;

@@ -1,0 +1,1 @@
+nome_aeroporto;código_aeroporto;cidade;país;continente;classificação;

@@ -1,0 +1,1 @@
+dia;mes;ano;hora;minutos;tempo;aeroportoOrigem;aeroportodestino;aviao;distancia;velocidadevento;altitude;numpassageiros;velocidade;
